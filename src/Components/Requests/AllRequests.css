@@ -1,0 +1,13 @@
+#all-requests-list {
+  border: 2px solid black;
+  box-shadow: 5px 5px #bfbfbf;
+  margin: 15px;
+  width: 40%;
+  text-align: center;
+}
+
+.title {
+  color: #2c3e50;
+  text-align: center;
+  text-transform: uppercase;
+}
